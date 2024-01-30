@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Lima Aguiar</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil, I specialize in crafting robust and scalable software solutions. With a strong foundation in languages like C# and expertise in utilizing the .NET framework, I bring a wealth of experience to my projects. My commitment to adopting best practices, such as implementing efficient backend architectures and incorporating rigorous testing methodologies, ensures the delivery of high-quality and reliable software. I thrive on tackling complex challenges and stay abreast of the latest industry trends to provide innovative and effective solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaellaguiar&label=Profile%20views&color=0e75b6&style=flat" alt="rafaellaguiar" /> </p>
 
